@@ -1,0 +1,1 @@
+Python possui uma ótima escrita por conta de não ter tipos explicitados. Swift também é legível, mesmo com a tipagem explicita e parece ser mais seguro em codigos grandes. Haskell é dificil de entender pois parece ter bastante recursão. 
